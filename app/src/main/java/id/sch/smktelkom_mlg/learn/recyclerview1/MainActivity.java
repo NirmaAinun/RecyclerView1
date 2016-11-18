@@ -13,6 +13,7 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
+
 import id.sch.smktelkom_mlg.learn.recyclerview1.adapter.HotelAdapter;
 import id.sch.smktelkom_mlg.learn.recyclerview1.model.Hotel;
 
