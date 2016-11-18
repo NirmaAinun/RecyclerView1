@@ -12,7 +12,6 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.learn.recyclerview1.R;
 import id.sch.smktelkom_mlg.learn.recyclerview1.model.Hotel;
 
-
 /**
  * Created by Nirmala Ainun on 11/11/2016.
  */
